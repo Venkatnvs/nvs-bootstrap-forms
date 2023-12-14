@@ -1,0 +1,5 @@
+include README.rst
+include LICENSE.md
+include CONTRIBUTING.md
+include CODE_OF_CONDUCT.md
+recursive-include docs *
